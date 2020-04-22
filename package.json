@@ -1,0 +1,15 @@
+{
+  "name": "heaps2d",
+  "version": "1.0.0",
+  "description": "Testing out 2D game development with the Heaps engine.",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server --port 8080 dist/index.html",
+    "start": "npm run lite"
+  },
+  "author": "Jack Kinsey <jack.w.kinsey@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
